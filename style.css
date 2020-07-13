@@ -58,7 +58,7 @@ header nav {
   margin-top: 10px;
 }
 #showcase{
-  background-image: url('../images/th.jpg');
+  background-image: url('images/th.jpg');
   color:#e8491f;
   min-height: 400px;;
   background-repeat:no-repeat;
